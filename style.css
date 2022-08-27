@@ -1,0 +1,6 @@
+#imagen {
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    border-bottom: 10px solid gray;
+}
